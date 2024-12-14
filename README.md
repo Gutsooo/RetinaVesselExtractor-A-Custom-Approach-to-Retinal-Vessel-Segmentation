@@ -1,6 +1,6 @@
 ![Capture](https://github.com/user-attachments/assets/83c1a01e-91e7-4d40-b6a1-96877361ecc0)
 
-h1 align="center">A Custom Approach to Retinal Vessel Segmentation on DRIVE Dataset</h1>
+<h1 align="center">A Custom Approach to Retinal Vessel Segmentation on DRIVE Dataset</h1>
 <p align="center">
 
 </p>
